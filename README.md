@@ -34,3 +34,11 @@
   <a href = "mailto:jenandersondesousagomes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div>
+  
+## Ultimos Projetos:
+  
+<!--- 
+* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
+-->
+  
+  
