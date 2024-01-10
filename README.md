@@ -1,6 +1,6 @@
 ### Eae?! Jeanderson Gomes aqui :v:
 
-- 🔭 Atualmente sou bolsista do Programa Institucional de Bolsas de Iniciação em Desenvolvimento Tecnológico e Inovação – PIBITI.
+- 🔭 Atualmente atua como Estágiario em Desenvolvimento de Software de Visão Computacional na SiDi.
 - 🌱 Atualmente estou aprendendo Deep Learning e Processamento de Imagem. 
 
 <div align="center">
