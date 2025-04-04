@@ -1,6 +1,6 @@
 ### Eae?! Jeanderson Gomes aqui :v:
 
-- 🔭 Atualmente atua como Estágiario em Desenvolvimento de Software de Visão Computacional na SiDi.
+- 🔭 Atualmente atua como Desenvolvedor Back-end na ária de Visão computacional na GETTER S.A.
 - 🌱 Atualmente estou aprendendo Deep Learning e Processamento de Imagem. 
 
 <div align="center">
