@@ -1,7 +1,12 @@
-### Eae?! Jeanderson Gomes aqui :v:
+### Sou Jeanderson Gomes :v:
 
-- 🔭 Atualmente atua como Desenvolvedor Back-end na ária de Visão computacional na GETTER S.A.
-- 🌱 Atualmente estou aprendendo Deep Learning e Processamento de Imagem. 
+- 🔧🤖👁️‍🗨️ Desenvolvedor Back-End especializado em Inteligência Artificial e Visão Computacional na GETTER S.A.
+
+- 🎓💻 Graduado em Sistemas de Informação pela UFPI e Mestrando em Engenharia Elétrica pela UFPI.
+
+- 📚💻 Estudo sobre arquitetura de software, boas práticas no desenvolvimento e aplicação de testes unitários.
+
+- 🚀🔍 Sempre em busca de otimização de processos e melhorias no desenvolvimento de soluções tecnológicas.
 
 <div align="center">
   <a href="https://github.com/JeandsGomes">
